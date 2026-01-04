@@ -3,7 +3,7 @@ Manual testing project on Flipkart covering test cases and bug reports for key e
 
 ### Flipkart Manual Testing Project
 
-## Project Description
+### Project Description
 This project focuses on manual testing of a live e-commerce web application (Flipkart) for learning and portfolio purposes.
 The goal is to design test cases, execute them, and report defects in a professional QA format.
 
@@ -14,7 +14,7 @@ The goal is to design test cases, execute them, and report defects in a professi
 4. Product Details Page (PDP)
 5. Add to Cart & Cart Page
 
-# Types of Testing Performed
+## Types of Testing Performed
  1. Functional Testing
  2. UI/UX Testing
  3. Exploratory Testing
