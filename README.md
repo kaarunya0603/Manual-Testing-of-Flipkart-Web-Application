@@ -7,7 +7,7 @@ Manual testing project on Flipkart covering test cases and bug reports for key e
 This project focuses on manual testing of a live e-commerce web application (Flipkart) for learning and portfolio purposes.
 The goal is to design test cases, execute them, and report defects in a professional QA format.
 
-# Modules Tested
+### Modules Tested
 1. Login
 2. Search
 3. Search with Filters and Sorting
